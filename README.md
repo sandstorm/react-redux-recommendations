@@ -2,3 +2,6 @@
 Overview on how we currently do react/redux-projects at Sandstorm
 
 [See docs](https://sandstorm.github.io/react-redux-recommendations/)
+
+> NOTE:
+> This is currently a work in progress draft!
